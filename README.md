@@ -2,55 +2,52 @@
 
 Founder of Bastion Technology Services
 
-I help businesses grow through:
+I help small businesses, ministries, and family-owned companies grow through custom software, websites, SEO, AI automation, and digital strategy.
 
-- Custom Website Development
-- SEO Optimization
-- AI Automation
-- Chrome Extension Development
-- API Integrations
-- Business Process Automation
-- WordPress Development
-- PHP/MySQL Applications
-- ASP.NET Core Applications
+## What I'm Building
 
-## Featured Projects
+### BastionProof
+A platform designed to help businesses establish trust, showcase credibility, and strengthen their online reputation through verifiable proof, reviews, and authority-building systems.
+
+### From Domain To Deploy
+A community dedicated to helping entrepreneurs, developers, and business owners learn how to build, launch, market, and grow digital products from idea to deployment.
 
 ### AskFaithBot
-Christian AI assistant for families, churches, and schools.
+A Christian AI assistant built to help families, churches, and individuals explore Scripture, theology, apologetics, and Christian living through guided conversations.
 
-### Bastion Volume Booster
-Chrome extension that enhances browser media volume.
-
-### Bastion QR Generator
-Editable QR code generator for businesses and marketing.
-
-### BastionXRay
-Tool for accessing archived versions of online content through the Wayback Machine.
+### Bastion Technology Services
+Custom websites, SEO, AI integrations, business automation, Chrome extensions, API development, and ongoing website management for small businesses and ministries.
 
 ## Technologies
 
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
-- ASP.NET Core
+- HTML / CSS / JavaScript
+- PHP / MySQL
+- ASP.NET Core / C#
 - SQL Server
+- WordPress
 - Docker
 - Cloudflare
 - Stripe
-- Git
-- GitHub
+- Git / GitHub
+- AI Integrations & Automation
 
-## Current Focus
+## Recent Focus
 
-- AI-powered business automation
-- SEO growth systems
+- AI-powered business solutions
+- Search Engine Optimization
+- Business process automation
+- SaaS product development
 - Chrome extension development
-- SaaS products
-- Small business websites
+- Small business growth systems
 
-## Contact
+## Mission
 
-🌐 https://bastiontech.org
+Building tools, businesses, and communities that help people solve real problems, steward their resources well, and create lasting value.
+
+## Connect
+
+🌐 BastionTech Website: https://bastiontech.org
+
+📚 From Domain To Deploy Community: https://fromdomaintodeploy.com
+
+🤖 AskFaithBot: https://askfaithbot.com
