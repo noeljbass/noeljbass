@@ -51,3 +51,7 @@ Building tools, businesses, and communities that help people solve real problems
 📚 From Domain To Deploy Community: https://fromdomaintodeploy.com
 
 🤖 AskFaithBot: https://askfaithbot.com
+
+## Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noeljbass&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noeljbass&layout=compact)
