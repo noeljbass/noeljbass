@@ -53,5 +53,5 @@ Building tools, businesses, and communities that help people solve real problems
 🤖 AskFaithBot: https://askfaithbot.com
 
 ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noeljbass&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=noeljbass)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noeljbass&layout=compact)
