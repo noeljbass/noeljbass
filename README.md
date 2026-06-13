@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Noel Bass
 
-<!--
-**noeljbass/noeljbass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of Bastion Technology Services
 
-Here are some ideas to get you started:
+I help businesses grow through:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Custom Website Development
+- SEO Optimization
+- AI Automation
+- Chrome Extension Development
+- API Integrations
+- Business Process Automation
+- WordPress Development
+- PHP/MySQL Applications
+- ASP.NET Core Applications
+
+## Featured Projects
+
+### AskFaithBot
+Christian AI assistant for families, churches, and schools.
+
+### Bastion Volume Booster
+Chrome extension that enhances browser media volume.
+
+### Bastion QR Generator
+Editable QR code generator for businesses and marketing.
+
+### BastionXRay
+Tool for accessing archived versions of online content through the Wayback Machine.
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- ASP.NET Core
+- SQL Server
+- Docker
+- Cloudflare
+- Stripe
+- Git
+- GitHub
+
+## Current Focus
+
+- AI-powered business automation
+- SEO growth systems
+- Chrome extension development
+- SaaS products
+- Small business websites
+
+## Contact
+
+🌐 https://bastiontech.org
