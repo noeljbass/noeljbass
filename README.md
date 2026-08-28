@@ -7,38 +7,42 @@ I help small businesses, ministries, and family-owned companies grow through cus
 ## What I'm Building
 
 ### BastionProof
+
 A platform designed to help businesses establish trust, showcase credibility, and strengthen their online reputation through verifiable proof, reviews, and authority-building systems.
 
-### From Domain To Deploy
-A community dedicated to helping entrepreneurs, developers, and business owners learn how to build, launch, market, and grow digital products from idea to deployment.
+### Abide N Me
+
+A Scripture reading and devotional platform built for families, churches, pastors, and small groups. Leaders can create custom Bible reading plans, invite members to private groups, and guide them through daily Scripture assignments that can be read or listened to with progress tracking.
 
 ### AskFaithBot
+
 A Christian AI assistant built to help families, churches, and individuals explore Scripture, theology, apologetics, and Christian living through guided conversations.
 
 ### Bastion Technology Services
+
 Custom websites, SEO, AI integrations, business automation, Chrome extensions, API development, and ongoing website management for small businesses and ministries.
 
 ## Technologies
 
-- HTML / CSS / JavaScript
-- PHP / MySQL
-- ASP.NET Core / C#
-- SQL Server
-- WordPress
-- Docker
-- Cloudflare
-- Stripe
-- Git / GitHub
-- AI Integrations & Automation
+* HTML / CSS / JavaScript
+* PHP / MySQL
+* ASP.NET Core / C#
+* SQL Server
+* WordPress
+* Docker
+* Cloudflare
+* Stripe
+* Git / GitHub
+* AI Integrations & Automation
 
 ## Recent Focus
 
-- AI-powered business solutions
-- Search Engine Optimization
-- Business process automation
-- SaaS product development
-- Chrome extension development
-- Small business growth systems
+* AI-powered business solutions
+* Search Engine Optimization
+* Business process automation
+* SaaS product development
+* Chrome extension development
+* Small business growth systems
 
 ## Mission
 
@@ -48,10 +52,7 @@ Building tools, businesses, and communities that help people solve real problems
 
 🌐 BastionTech Website: https://bastiontech.org
 
-📚 From Domain To Deploy Community: https://fromdomaintodeploy.com
+📖 Abide N Me: https://abiden.me
 
 🤖 AskFaithBot: https://askfaithbot.com
 
-## Github Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=noeljbass)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noeljbass&layout=compact)
