@@ -1,6 +1,6 @@
 # Hi, I'm Noel Bass
 
-Founder of Bastion Technology Services
+Founder of BastionTech LLC
 
 I help small businesses, ministries, and family-owned companies grow through custom software, websites, SEO, AI automation, and digital strategy.
 
